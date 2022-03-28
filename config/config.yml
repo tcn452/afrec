@@ -22,6 +22,6 @@ command:
       settings_file: settings.local.php
       
 project_repo: git@github.com:tcn452/afrec.git
-release_repo: ssh://codeserver.dev.cce747c1-5b46-4c21-a55d-7a8f564e99e2@codeserver.dev.cce747c1-5b46-4c21-a55d-7a8f564e99e2.drush.in:2222/~/repository.git afrec-dev
+release_repo: ssh://codeserver.dev.cce747c1-5b46-4c21-a55d-7a8f564e99e2@codeserver.dev.cce747c1-5b46-4c21-a55d-7a8f564e99e2.drush.in:2222/~/repository.git
 release_drupal_root: web
 deploy_host: Pantheon
