@@ -14,7 +14,9 @@ nfs_mount_enabled: false
 mutagen_enabled: false
 use_dns_when_possible: true
 composer_version: "2"
-web_environment: []
+web_environment: [
+TERMINUS_MACHINE_TOKEN=7KhH6lq6wAC3n5nis_VEgosMC7gwKfxQwkBb_4gzmYjFE
+]
 
 # Key features of ddev's config.yaml:
 
